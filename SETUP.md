@@ -2,7 +2,9 @@
 
 ## Ubuntu
 ### Prerequisites:
+- Computer with fresh Ubuntu OS (20.04 or greater) installation.
 
+#### Open the default system terminal.
 
 ### Update & Upgrade
 Run below commands to update your system.
@@ -12,11 +14,13 @@ sudo apt-get upgrade
 sudo apt-get install build-essential
 ```
 
-### Terminal
+### Terminator Terminal
 Install `terminator` terminal
 ```sh
 sudo apt install terminator
 ```
+
+#### Open the "Terminator" terminal.
 
 ### Dotfiles
 ```sh
